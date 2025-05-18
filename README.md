@@ -1,12 +1,35 @@
-# React + Vite
+# ☕ Coffee Shop - Simple MERN Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern web application built with **React**, **Vite**, **Tailwind CSS**, and **Firebase**. It showcases a coffee shop product display with features like form handling, routing, UI components, and Firebase integration.
 
-Currently, two official plugins are available:
+🔗 **Live Demo**: [Visit Site](https://simple-firebase-project-c25a6.web.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React 19 with Vite for blazing fast performance
+- Tailwind CSS and DaisyUI for beautiful and responsive design
+- React Router v7 for smooth navigation
+- SweetAlert2 for elegant notifications
+- Firebase integration for backend services
+
+---
+
+## 🧰 Tech Stack
+
+- **Frontend**: React, Vite
+- **Styling**: Tailwind CSS, DaisyUI
+- **Routing**: React Router
+- **UI Enhancements**: SweetAlert2, React Icons
+- **Backend**: Firebase (Authentication, Firestore, Hosting)
+
+---
+
+## 📦 Installation
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/simple-firebase-project.git
+   cd simple-firebase-project
+   ```
